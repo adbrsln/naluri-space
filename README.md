@@ -1,6 +1,6 @@
 # Naluri Space Project
 
-The aim of this project is to calculate the circumference of the suns which some of the data is provided by the NASA website [NASA Sun Fact Sheets](https://nssdc.gsfc.nasa.gov/planetary/factsheet/sunfact.html).
+The aim of this project is to calculate the circumference of the suns which some of the data is provided by the NASA website [NASA Sun Fact Sheets](https://nssdc.gsfc.nasa.gov/planetary/factsheet/sunfact.html). This application will calculate the most accurate pi value using nilankantha series then store it inside the database. 
 
 ## Software Requirements
 

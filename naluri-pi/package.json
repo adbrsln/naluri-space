@@ -1,0 +1,15 @@
+{
+  "name": "naluri-pi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pi.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Muhammad Adib Ahmad Roslan",
+  "license": "MIT",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}

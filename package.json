@@ -1,0 +1,20 @@
+{
+  "name": "naluri-space",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install-pi" : "cd naluri-pi && npm install",
+    "install-api" : "cd naluri-api && npm install",
+    "install-webapp" : "cd naluri-webapp && npm install",
+    "watch-pi" : "cd naluri-pi && npm start",
+    "watch-api" : "cd naluri-api && npm start",
+    "watch-webapp" : "cd naluri-webapp && npm start"
+  },
+  "keywords": [],
+  "author": "Muhammad Adib Ahmad Roslan",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^6.2.0"
+  }
+}
